@@ -1,0 +1,22 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "A Library Web Application Built using Express & Node.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Bolaji Olajide",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.15.2"
+  },
+  "devDependencies": {
+    "eslint": "~3.19.0",
+    "eslint-config-airbnb-base": "~11.1.3",
+    "eslint-plugin-import": "~2.2.0",
+    "gulp": "~3.9.1",
+    "gulp-eslint": "~3.0.1",
+    "wiredep": "^4.0.0"
+  }
+}
